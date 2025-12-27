@@ -23,8 +23,8 @@ I am a Computer Science student at WGU, passionate about building practical appl
 ![CSV](https://img.shields.io/badge/CSV-1E90FF?style=flat)  
 
 ## 📂 Projects
-- [Password Manager](https://github.com/BlessingChip38/password-manager) – A C# GUI application to securely store and manage passwords locally.  
- 
+- [Password Manager](https://github.com/BlessingChip38/password-manager) – A C# GUI application to securely store and manage passwords locally.
+- Working on building C# GUI application to track books.
 
 ## 📫 Contact
 - 📧 Email: rowley.little@gmail.com 
