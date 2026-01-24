@@ -23,8 +23,29 @@ I am a Computer Science student at WGU, passionate about building practical appl
 ![CSV](https://img.shields.io/badge/CSV-1E90FF?style=flat)  
 
 ## 📂 Projects
-- [Password Manager](https://github.com/BlessingChip38/password-manager) – A C# GUI application to securely store and manage passwords locally.
-- Working on building C# GUI application to track books.
+
+## 💻 Highlighted Projects
+
+### **Spot Check Tracker**
+**Spring Boot • MySQL • Thymeleaf**  
+Web tool to track jobsite spot checks and replace manual record-keeping.  
+• Built REST APIs, database persistence, and frontend views.  
+• Improved real reporting visibility and reduced paperwork overhead.
+
+### **Python Data Automation**
+**Python**  
+Scripts that extract, filter, and reorganize Excel data for operational workflows.  
+• Automated repetitive analysis, saving time and improving data consistency.
+
+### **Package Delivery Optimizer**
+**Python → C#**  
+Started as a Python console app to optimize delivery routes and ported to C#.  
+• Practiced algorithm design, OOP, and validating behavior across languages.
+
+### **Password Manager**
+**C# GUI application**  
+Personal password storage tool with local encryption (see repo for details).
+
 
 ## 📫 Contact
 - 📧 Email: rowley.little@gmail.com 
