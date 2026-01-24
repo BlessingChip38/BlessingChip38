@@ -26,7 +26,7 @@ I am a Computer Science student at WGU, passionate about building practical appl
 
 ## 💻 Highlighted Projects
 
-### **Book Tracker App**
+### [Reading Rewards App](https://github.com/BlessingChip38/ReadingRewardsApp)
 **C# Winforms**
 
 Simple app to track books read across a family library
