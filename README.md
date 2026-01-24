@@ -26,6 +26,10 @@ I am a Computer Science student at WGU, passionate about building practical appl
 
 ## 💻 Highlighted Projects
 
+### **Book Tracker App**
+**C# Winforms**
+Simple app to track books read across a family library
+
 ### **Spot Check Tracker**
 **Spring Boot • MySQL • Thymeleaf**  
 Web tool to track jobsite spot checks and replace manual record-keeping.  
