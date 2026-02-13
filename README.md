@@ -27,12 +27,12 @@ I am a Computer Science student at WGU, passionate about building practical appl
 ## 💻 Highlighted Projects
 
 ### [Minecraft Advancement Server](https://github.com/BlessingChip38/MinecraftAdvancementServer)
-***C#***
+**C#**
 Small server hosted on a pi to track advancement progress for Minecraft world.
 
 
 ### [Reading Rewards App](https://github.com/BlessingChip38/ReadingRewardsApp)
-***C# Winforms**
+**C# Winforms**
 Simple app to track books read across a family library
 
 ### **Spot Check Tracker**
